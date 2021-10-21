@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app_bs_service</string>
+    <string name="broadcast_filter">com.example.projekt1_smb2.MY_BROADCAST</string>
+</resources>
