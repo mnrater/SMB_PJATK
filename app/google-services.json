@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815841640053",
+    "firebase_url": "https://instant-stone-232418-default-rtdb.firebaseio.com",
+    "project_id": "instant-stone-232418",
+    "storage_bucket": "instant-stone-232418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815841640053:android:da6cb3865c4a28455c023c",
+        "android_client_info": {
+          "package_name": "com.example.projekt1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815841640053-8nkphtre0dcpglogesr50ouk46an0236.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMRKiEzh882ZQn8oz8ffiVs393wtAXV0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815841640053-8nkphtre0dcpglogesr50ouk46an0236.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
