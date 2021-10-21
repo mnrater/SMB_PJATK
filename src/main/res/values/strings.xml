@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projekt1_SMB2</string>
+    <string name="broadcast_filter">com.example.projekt1_smb2.MY_BROADCAST</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="appwidget_text">WELCOME</string>
+    <string name="add_widget">Add widget</string>
+    <string name="actionBt">com.example.projekt1_smb2.BUTTON</string>
+    <string name="actionBtPlay">com.example.projekt1_smb2.ACTION_PLAY</string>
+    <string name="actionBtStop">com.example.projekt1_smb2.ACTION_STOP</string>
+    <string name="actionBtPause">com.example.projekt1_smb2.ACTION_PAUSE</string>
+    <string name="actionBtPrevious">com.example.projekt1_smb2.ACTION_PREV</string>
+    <string name="actionBtNext">com.example.projekt1_smb2.ACTION_NEXT</string>
+    <string name="broadcast_test">com.example.projekt1_smb2.NEW_BROADCAST</string>
+    <string name="done">Done!</string>
+</resources>
