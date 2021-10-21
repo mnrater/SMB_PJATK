@@ -1,2 +1,3 @@
 # SMB_PJATK
-Android development in Kotlin.
+Android development in Kotlin. <br>
+Different branch - different exercise.
